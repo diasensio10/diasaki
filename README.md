@@ -1,0 +1,2 @@
+# diasaki
+Setting Up GIT
